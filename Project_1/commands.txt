@@ -1,0 +1,12 @@
+git clone https://github.com/joeltam/Computational-Social-Science-Projects.git
+cd Computational-Social-Science-Projects
+mkdir Project_1
+cd Project_1
+touch commands.txt
+vim commands.txt
+
+cd ..
+git status
+git add .
+git commit -m "initial commit"
+git push
